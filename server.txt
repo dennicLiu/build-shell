@@ -1,0 +1,1 @@
+scp -P 1101 /Users/macbookpro/Desktop/04_server-2/game-server/app/serverLogic/manager/httpServer.js root@###:/data/qmx/game-server/app/serverLogic/manager/httpServer.js
